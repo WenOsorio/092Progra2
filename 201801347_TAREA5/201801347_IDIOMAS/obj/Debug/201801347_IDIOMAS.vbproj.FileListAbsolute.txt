@@ -1,0 +1,13 @@
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\bin\Debug\201801347_IDIOMAS.exe.config
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\bin\Debug\201801347_IDIOMAS.exe
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\bin\Debug\201801347_IDIOMAS.pdb
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\bin\Debug\201801347_IDIOMAS.xml
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\obj\Debug\201801347_IDIOMAS.vbproj.AssemblyReference.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\obj\Debug\201801347_IDIOMAS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\obj\Debug\_201801347_IDIOMAS.Form1.resources
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\obj\Debug\_201801347_IDIOMAS.Resources.resources
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\obj\Debug\201801347_IDIOMAS.vbproj.GenerateResource.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\obj\Debug\201801347_IDIOMAS.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\obj\Debug\201801347_IDIOMAS.exe
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\obj\Debug\201801347_IDIOMAS.xml
+C:\Users\Jose Victor\Desktop\201801347_TAREA5\201801347_IDIOMAS\obj\Debug\201801347_IDIOMAS.pdb
