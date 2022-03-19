@@ -1,0 +1,13 @@
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\bin\Debug\201801347_Sillones.exe.config
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\bin\Debug\201801347_Sillones.exe
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\bin\Debug\201801347_Sillones.pdb
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\bin\Debug\201801347_Sillones.xml
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\obj\Debug\201801347_Sillones.vbproj.AssemblyReference.cache
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\obj\Debug\201801347_Sillones.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\obj\Debug\_201801347_Sillones.Form1.resources
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\obj\Debug\_201801347_Sillones.Resources.resources
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\obj\Debug\201801347_Sillones.vbproj.GenerateResource.cache
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\obj\Debug\201801347_Sillones.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\obj\Debug\201801347_Sillones.exe
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\obj\Debug\201801347_Sillones.xml
+C:\Users\Jose Victor\Desktop\201801347_TareaP2\201801347_Sillones\obj\Debug\201801347_Sillones.pdb
