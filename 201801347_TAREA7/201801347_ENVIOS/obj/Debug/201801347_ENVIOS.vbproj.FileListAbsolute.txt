@@ -1,0 +1,13 @@
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\bin\Debug\201801347_ENVIOS.exe.config
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\bin\Debug\201801347_ENVIOS.exe
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\bin\Debug\201801347_ENVIOS.pdb
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\bin\Debug\201801347_ENVIOS.xml
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\obj\Debug\201801347_ENVIOS.vbproj.AssemblyReference.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\obj\Debug\201801347_ENVIOS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\obj\Debug\_201801347_ENVIOS.Form1.resources
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\obj\Debug\_201801347_ENVIOS.Resources.resources
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\obj\Debug\201801347_ENVIOS.vbproj.GenerateResource.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\obj\Debug\201801347_ENVIOS.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\obj\Debug\201801347_ENVIOS.exe
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\obj\Debug\201801347_ENVIOS.xml
+C:\Users\Jose Victor\Desktop\201801347_TAREA7\201801347_ENVIOS\obj\Debug\201801347_ENVIOS.pdb
