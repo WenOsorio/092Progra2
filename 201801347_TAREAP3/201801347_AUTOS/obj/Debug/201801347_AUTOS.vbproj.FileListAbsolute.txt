@@ -1,0 +1,13 @@
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\bin\Debug\201801347_AUTOS.exe.config
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\bin\Debug\201801347_AUTOS.exe
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\bin\Debug\201801347_AUTOS.pdb
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\bin\Debug\201801347_AUTOS.xml
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\obj\Debug\201801347_AUTOS.vbproj.AssemblyReference.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\obj\Debug\201801347_AUTOS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\obj\Debug\_201801347_AUTOS.Form1.resources
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\obj\Debug\_201801347_AUTOS.Resources.resources
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\obj\Debug\201801347_AUTOS.vbproj.GenerateResource.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\obj\Debug\201801347_AUTOS.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\obj\Debug\201801347_AUTOS.exe
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\obj\Debug\201801347_AUTOS.xml
+C:\Users\Jose Victor\Desktop\201801347_TAREAP3\201801347_AUTOS\obj\Debug\201801347_AUTOS.pdb
