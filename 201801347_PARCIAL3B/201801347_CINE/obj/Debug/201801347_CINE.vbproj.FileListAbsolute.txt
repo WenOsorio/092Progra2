@@ -1,0 +1,13 @@
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\bin\Debug\201801347_CINE.exe.config
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\bin\Debug\201801347_CINE.exe
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\bin\Debug\201801347_CINE.pdb
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\bin\Debug\201801347_CINE.xml
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\obj\Debug\201801347_CINE.vbproj.AssemblyReference.cache
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\obj\Debug\201801347_CINE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\obj\Debug\_201801347_CINE.Form1.resources
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\obj\Debug\_201801347_CINE.Resources.resources
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\obj\Debug\201801347_CINE.vbproj.GenerateResource.cache
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\obj\Debug\201801347_CINE.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\obj\Debug\201801347_CINE.exe
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\obj\Debug\201801347_CINE.xml
+C:\Users\Jose Victor\Desktop\201801347_PARCIAL3B\201801347_CINE\obj\Debug\201801347_CINE.pdb
