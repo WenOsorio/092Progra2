@@ -1,0 +1,13 @@
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\bin\Debug\201801347_VUELTAC.exe.config
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\bin\Debug\201801347_VUELTAC.exe
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\bin\Debug\201801347_VUELTAC.pdb
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\bin\Debug\201801347_VUELTAC.xml
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\obj\Debug\201801347_VUELTAC.vbproj.AssemblyReference.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\obj\Debug\201801347_VUELTAC.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\obj\Debug\_201801347_VUELTAC.Form1.resources
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\obj\Debug\_201801347_VUELTAC.Resources.resources
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\obj\Debug\201801347_VUELTAC.vbproj.GenerateResource.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\obj\Debug\201801347_VUELTAC.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\obj\Debug\201801347_VUELTAC.exe
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\obj\Debug\201801347_VUELTAC.xml
+C:\Users\Jose Victor\Desktop\201801347_TAREA8\201801347_VUELTAC\obj\Debug\201801347_VUELTAC.pdb
